@@ -1,2 +1,2 @@
 # annulus
-Draw circular ring
+DEMO url http://1.lori.sinaapp.com/annulus/index.html
