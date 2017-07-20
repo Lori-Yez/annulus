@@ -1,0 +1,17 @@
+html,body {
+    margin: 0;
+    padding: 0;
+}
+.unmove {
+    overflow: hidden
+}
+.container {
+    position: relative;
+    text-align: center;
+    height: 250px;
+}
+canvas {
+    position: absolute;
+    margin-left: -125px;
+    background-color: transparent;
+}
